@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">Retired Developer from Mother Russia.</h3>
 
-- 🔭 I’m currently working on **GooseBot**
+- 🔭 I’m currently working on **ArmChair**
 
-- 🌱 I’m currently learning **Discord.JS, Bukkit API**
+- 🌱 I’m currently learning **Discord.JS, Disnake, Bukkit API**
 
 - 👯 I’m looking to collaborate on **nothing**
 
